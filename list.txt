@@ -10,3 +10,6 @@ maize flour
 rice
 onions
 salt
+soap
+mop
+baket
